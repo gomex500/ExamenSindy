@@ -1,4 +1,4 @@
-fetch('data.json')
+fetch('../db/data.json')
     .then(response => response.json())
     .then(data => {
         const revistaTitulo = document.getElementById('revista-titulo');

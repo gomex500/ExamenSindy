@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url('./img/fondo.png');
+    background-image: url('../img/fondo.png');
 }
 
 h1 {
@@ -31,6 +31,11 @@ footer{
 
 footer a{
     color: #40cfff;
+}
+
+footer a img{
+    width: 40px;
+    margin-top: 10px;
 }
 
 #articulos-container {
