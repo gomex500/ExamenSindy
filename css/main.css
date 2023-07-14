@@ -18,7 +18,7 @@ nav{
     background-color: #252525;
 }
 
-footer{
+.footer{
     background-color: #252525;
     text-align: center;
     height: 60px;
@@ -29,11 +29,11 @@ footer{
     bottom: 0;
 }
 
-footer a{
+.footer a{
     color: #40cfff;
 }
 
-footer a img{
+.footer a img{
     width: 40px;
     margin-top: 10px;
 }
@@ -130,7 +130,7 @@ footer a img{
     line-height: 1.5;
     text-align: justify;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width:600px){
     .modal-content {
     margin: 20px;
     padding: 10px;
@@ -140,6 +140,9 @@ footer a img{
     }
     .modal-imagen {
         max-width: 100%;
+    }
+    .footer{
+        height: 500px;
     }
 }
    .modal-abierto {
