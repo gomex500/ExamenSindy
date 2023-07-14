@@ -1,0 +1,30 @@
+{
+    "titulo": "El agua como fuente de vida.",
+    "articulos": [
+        {
+            "titulo": "El cuido del agua: No hay vida sin agua.",
+            "imagen": "https://www.iagua.es/sites/default/files/styles/thumbnail-830x455/public/agua_28.jpg?itok=Bg6u4yji",
+            "contenido": "Contar con sistemas de agua potable y saneamiento significa evitar exponerse a innumerables enfermedades. Cada año mueren miles de personas de enfermedades provocadas por sistemas de agua, saneamiento e higiene inadecuados. Aparte de la neumonía, la diarrea es la principal causa de muerte en niños menores de 5 años."
+        },
+        {
+            "titulo": "Agua en las Comunidades: El agua limpia significa salud",
+            "imagen": "https://www.el19digital.com/files/articulos/240656.jpeg",
+            "contenido": "Las tarjetas gráficas son componentes esenciales para los amantes de los juegos y el diseño gráfico.Estas unidades de procesamiento gráfico (GPU) estándiseñadas específicamente para manejar tareas intensivas en gráficos, como renderizado en 3D, efectos visuales y cálculos matemáticos complejos. Las tarjetas gráficas modernas ofrecen un rendimiento excepcional y son capaces de mostrar gráficos de alta calidad y realismo en tiempo real. Además, las últimas tarjetas gráficas cuentan con tecnologías avanzadas como trazado de rayos y inteligencia artificial, lo que permite obtener imágenes más detalladas y efectos visuales impresionantes."
+        },
+        {
+            "titulo": "Aguas Residuales: El agua sucia no se puede lavar.",
+            "imagen": "https://agua.org.mx/wp-content/uploads/2019/04/agua-sucia.jpg",
+            "contenido": "Las Aguas Residuales son cualquier tipo de agua cuya calidad está afectada negativamente por la influencia antropogénica. Se trata de agua que no tiene valor inmediato para el fin para el que se utilizó ni para el propósito para el que se produjo debido a su calidad, cantidad o al momento en que se dispone de ella."
+        },
+        {
+            "titulo": "La vitalidad del aire. ",
+            "imagen": "https://www.psicoactiva.com/wp-content/uploads/2018/09/respirar-aire-fresco.jpg",
+            "contenido": "El aire es un elemento esencial para el desarrollo de la vida en la tierra. Su función principal es proporcionar oxígeno para respirar. Sin ellos, las plantas, los animales y los humanos no pueden existir. Sus principales componentes son nitrógeno, oxígeno, dióxido de carbono, neón, helio, etc. Todos ellos son muy importantes y necesarios para que los organismos realicen funciones importantes."
+        },
+        {
+            "titulo": "Metales pesados: Minimizando los riesgos para la salud.",
+            "imagen": "https://www.aguaysaluduruguay.com/wp-content/uploads/2022/09/Metales-Pesados-en-el-Agua.jpg",
+            "contenido": "Como dijo UNICEF (2021). La contaminación del aire y el cambio climático tienen un origen en común y, por tanto, pueden tener soluciones comunes. Las emisiones de GEI como resultado de la quema de combustibles fósiles favorecen el cambio climático, al mismo tiempo que se liberan contaminantes que provocan la contaminación del aire. La contaminación del aire provoca graves problemas ambientales, como el smog, el efecto invernadero, la lluvia ácida y el agotamiento de la capa de ozono, y tiene un gran impacto en los seres humanos, los animales y las plantas."
+        }
+    ]
+}
